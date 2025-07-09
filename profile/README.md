@@ -7,5 +7,5 @@ We work across disciplines, supporting engineers, designers, and product teams b
 On this GitHub page, you will find examples of our work, including UI component libraries, agent-powered prototyping tools, and interactive demos. 
 These resources are designed to help teams experiment and iterate on new product directions with real, working interfaces.
 
-Our approach is hands-on and adaptable, emphasizing building over planning. 
+Our approach is rapid and adaptable, emphasizing doing over planning.
 Here you can explore the tools, prototypes, and utilities that power rapid product innovation at Microsoft AI Foundry.
