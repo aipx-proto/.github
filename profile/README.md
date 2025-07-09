@@ -1,10 +1,11 @@
 # UX Engineering at Microsoft AI Foundry
 
-The AI Foundry UX Engineering (UXE) team brings design, engineering, and AI expertise together to accelerate the development of innovative products. 
-We combine visual design, UI development, prototyping, and prompt engineering to help teams deliver high-quality, accessible, and performant user experiences.
+The AI Foundry UX Engineering team specializes in rapid prototyping and development of AI-powered user experiences. 
+Our team blends design thinking, engineering skill, and AI methods to create interactive prototypes, tools, and component libraries that accelerate product exploration and validation.
 
-Our work ranges from building reusable UI components and AI-powered tools to creating interactive prototypes and documenting best practices. 
-We collaborate with engineers, designers, and product managers, focusing on practical problem-solving and enabling others to become more independent “Full Stack Builders.”
+We work across disciplines, supporting engineers, designers, and product teams by quickly turning ideas and concepts into practical, testable artifacts. 
+On this GitHub page, you will find examples of our work, including UI component libraries, agent-powered prototyping tools, and interactive demos. 
+These resources are designed to help teams experiment and iterate on new product directions with real, working interfaces.
 
-This repository contains our shared tooling, code, prototypes, and design system work in support of Microsoft AI Foundry projects. 
-Explore our examples and resources for building, experimenting, and moving fast in an AI-driven environment.
+Our approach is hands-on and adaptable, emphasizing building over planning. 
+Here you can explore the tools, prototypes, and utilities that power rapid product innovation at Microsoft AI Foundry.
